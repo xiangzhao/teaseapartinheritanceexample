@@ -9,8 +9,6 @@ package net.xiangzhao.test;
  */
 public abstract class NewsFeedItem {
 
-	protected Source source;
-
 	protected String author;
 
 	protected String content;
